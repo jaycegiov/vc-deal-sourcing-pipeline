@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+.venv/
+env/
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore CSV outputs (generated data)
+*.csv
+
+# Ignore Jupyter notebook checkpoints (if ever used)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
