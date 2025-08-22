@@ -1,0 +1,26 @@
+api:
+  base_url: "https://api.company-information.service.gov.uk"
+  retries: 5
+  backoff_factor: 2
+
+files:
+  enhanced_csv: "AI_companies_enhanced.csv"
+  vc_focus_csv: "AI_companies_vc_focus.csv"
+  officers_csv: "AI_companies_officers.csv"
+  log_file: "pipeline.log"
+
+filters:
+  days_back: 90
+  max_company_age_years: 2
+  virtual_addresses:
+    - "71-75 Shelton Street"
+    - "128 City Road"
+
+sic_codes:
+  - "62012"
+  - "63110"
+  - "62020"
+  - "63120"
+  - "63990"
+  - "72190"
+  - "71122"

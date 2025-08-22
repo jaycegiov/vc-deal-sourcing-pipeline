@@ -1,0 +1,100 @@
+name,incorporated,age_years,status,sic_codes,company_number,company_type,company_subtype,registered_office_address,registered_office_locality,registered_office_postcode,previous_names,is_virtual_office
+RGODIM LTD,2025-06-05,0.2,active,"62012, 72190, 96090",16497924,,,275 New North Road Islington London N1 7aa,London,N1 7AA,[],False
+SYNTHETA LTD,2025-06-05,0.2,active,"62012, 62020, 63110, 72190",16497701,,,45 Albemarle Street,London,W1S 4JL,[],False
+CROWN FINANCIAL GROUP LTD,2025-06-04,0.2,active,"63110, 64922",16494791,,,A6 Moorfield Road,Wolverhampton,WV2 4QT,[],False
+AHSAN CONSULTANCY LTD,2025-06-04,0.2,active,"71200, 72110, 72190",16496629,,,8 Kenwood Gardens,Ilford,IG2 6YH,[],False
+OAOBUY GLOBAL COMMERCE LIMITED,2025-06-04,0.2,active,"47910, 63110, 73110",16495189,,,Office 8133 321-323 High Road Chadwell Heath,Essex,RM6 6AX,[],False
+PACER EVENT SOLUTIONS LTD,2025-06-04,0.2,active,62012,16495170,,,6 Langley Street,London,WC2H 9JA,[],False
+FROST FORGE LTD,2025-06-04,0.2,active,62012,16495112,,,124 City Road,London,EC1V 2NX,[],False
+NECTAL LTD,2025-06-04,0.2,active,62012,16494879,,,82a James Carter Road,Mildenhall,IP28 7DE,[],False
+NOVASOFT GROUP LTD,2025-06-04,0.2,active,"46510, 62012, 73110, 96090",16494592,,,Euro House,Preston,PR1 4BQ,[],False
+QUANTERRA AI SOLUTIONS LTD,2025-06-04,0.2,active,"62012, 62020, 63110",16494564,,,20 Wenlock Road,London,N1 7GU,[],False
+TORSBOTECH LTD,2025-06-04,0.2,active,"43290, 43999, 71122, 71129",16494621,,,3 Officers Terrace,Chatham,ME4 4LJ,[],False
+R.B. CONSULTANTS IOW LTD,2025-06-04,0.2,active,"42990, 71122",16494900,,,4 Pallance Road,Cowes,PO31 8LN,[],False
+CALFORMA LTD,2025-06-04,0.2,active,"70229, 71112, 71122, 71129",16495293,,,21 Lime Grove,Twickenham,TW1 1EL,[],False
+SILVONIX LIMITED,2025-06-04,0.2,active,72190,16497392,,,Flat 129 Nyland Court Naomi Street,London,SE8 5EX,[],False
+EASY WAVE ENERGY LIMITED,2025-06-04,0.2,active,"35110, 63990",16494973,,,85 Great Portland Street,London,W1W 7LT,[],False
+OASIS KINGDOM LTD,2025-06-04,0.2,active,"58290, 62090, 63120",16494715,,,"Flat 9, Glencoyne Court",Bristol,BS10 6TP,[],False
+CHIKARA INTELLIGENCE LTD,2025-06-04,0.2,active,63990,16495106,,,43 Wedgwood Avenue,Milton Keynes,MK14 5JZ,[],False
+BIMEX ENGINEERS UK LTD,2025-06-04,0.2,active,71122,16494739,,,Chantal House Suites 12-13,Loughton,IG10 4BN,[],False
+TOUCH ROBOTICS LTD,2025-06-02,0.2,active,72190,16490678,,,155 Galahad Close,Andover,SP10 4BP,[],False
+SYNTELLIC SYSTEMS LTD LIMITED,2025-06-02,0.2,active,"62090, 72190",16488188,,,Reemdale Fulwood Row,Preston,PR2 5RW,[],False
+SOCIALSPHERE LTD,2025-06-02,0.2,active,"63120, 73110, 82990",16487990,,,Launchpad Victoria Building,Middlesbrough,TS1 3AP,[],False
+THE CHEMICAL COLLECTIVE LTD,2025-06-02,0.2,active,"71122, 72190",16490878,,,62 Worple Road,Isleworth,TW7 7HU,[],False
+CRESCENT INTELLIGENCE LIMITED,2025-06-02,0.2,active,71122,16487929,,,A1511 48 Islington,Liverpool,L3 8LH,[],False
+JOBJOB LTD,2025-06-01,0.2,active,"62012, 63120, 78109",16487199,,,Yew Tree Lodge Hangman Stone Lane,Doncaster,DN5 7TB,[],False
+GREEN MINE TECH LTD,2025-06-01,0.2,active,"70229, 71122, 72190, 74909",16487312,,,6 Morven Drive,Manchester,M23 1FS,[],False
+SBDS AVIATION LTD,2025-05-31,0.2,active,"30300, 72190, 74909",16487067,,,12 Clos Waun Ceffyl,Treharris,CF46 6LB,[],False
+FURNISHLY LTD,2025-05-31,0.2,active,"58290, 62012, 62020, 63990",16487026,,,Care Of Noble One Accountants144 Ripplewaters,Chatham,ME4 3AY,[],False
+CLINKK LTD,2025-05-30,0.2,active,63120,16484948,,,8 Heritage Lane,Burgess Hill,RH15 0XG,[],False
+OUR ERA LTD,2025-05-30,0.2,active,"47910, 58190, 63120, 90030",16484592,,,The Oxygen Rooms 122 Barr Street (Unit 6),Birmingham,B19 3DE,[],False
+SAASTREAM INNOVATIONS LIMITED,2025-05-30,0.2,active,63120,16484235,,,14 Camden Road,London,NW1 9DP,[],False
+TRADERS' PUB LTD,2025-05-30,0.2,active,63990,16484910,,,16-18 Palace Gates Road,London,N22 7BN,[],False
+OCEAN INTEL LTD,2025-05-30,0.2,active,"62012, 62090, 63110, 63990",16485645,,,20 Wenlock Road,London,N1 7GU,[],False
+QR TRAILS LTD,2025-05-30,0.2,active,63990,16486202,,,17 Oaklands Road,Havant,PO9 2RL,[],False
+WHATCHAT3 AI SYSTEMS LTD,2025-05-30,0.2,active,"62012, 63110, 64303, 64304",16485835,,,Suite 12237 61 Bridge Street,Kington,HR5 3DJ,[],False
+SUPERHOSTERZ LTD,2025-05-30,0.2,active,"62012, 62020, 62090, 63110",16484482,,,182-184 High Street North,London,E6 2JA,[],False
+NORTHFIELD FINANCE LIMITED,2025-05-30,0.2,active,"62090, 63110, 63990, 66190",16485473,,,Office 8099 321-323 High Road,Essex,RM6 6AX,[],False
+WATSON JONES LTD,2025-05-30,0.2,active,"71122, 74902, 82990",16486437,,,92-94 High Street,Porthmadog,LL49 9NW,[],False
+ZEBULUNAI LTD,2025-05-30,0.2,active,"62012, 71121, 71122, 80300",16486275,,,Verdun Worcester Road,Worcester,WR7 4EX,[],False
+PEPTIGEN LTD,2025-05-30,0.2,active,72190,16484920,,,2 Peel Court,Darlington,DL1 1GB,[],False
+QED TECHNOLOGIES LTD,2025-05-30,0.2,active,"27200, 63110, 72190",16485874,,,7 Filleul Road,Wareham,BH20 7AW,[],False
+PANTHEON E&C LTD,2025-05-29,0.2,active,71122,16482991,,,20 Tennyson Street,Derby,DE24 8BN,[],False
+CLUBGRWM LTD,2025-05-29,0.2,active,63120,16483367,,,Flat 55 Aldford House,London,W1K 7LG,[],False
+AQUALOGICAL LIMITED,2025-05-29,0.2,active,71122,SC850419,,,1 Tynron Court,Hamilton,ML3 8XD,[],False
+TAG FEUDS LTD,2025-05-29,0.2,active,"47910, 63120, 93290",SC850410,,,35 The Hawthorns,Gretna,DG16 5QA,[],False
+MESA QUANTUM UK LIMITED,2025-05-29,0.2,active,72190,16481436,,,30 Old Bailey,London,EC4M 7AU,[],False
+J5 MANAGEMENT LIMITED,2025-05-29,0.2,active,71122,16482631,,,31-33 London Street,Andover,SP10 2NU,[],False
+BEYOND THE PLAN LTD,2025-05-29,0.2,active,"62012, 63120, 82302, 85600",16482387,,,20 Wenlock Road,London,N1 7GU,[],False
+THE HILL BANBURY CIC,2025-05-29,0.2,active,"56290, 63990, 85600, 96090",16481483,,,The Hill Community Centre,Banbury,OX16 0JJ,[],False
+SHOP CODE LTD,2025-05-29,0.2,active,"46160, 46190, 63990, 70229",16482139,,,Unit 508 1st Floor 415 High St,London,E15 4QZ,[],False
+NEXZGEN LTD,2025-05-29,0.2,active,"59112, 63990, 64999, 79901",16483955,,,124-128 City Road,London,EC1V 2NX,[],False
+STORY ENHANCERS LTD,2025-05-29,0.2,active,"59112, 62012, 63120",16483217,,,20 Wenlock Road,London,N1 7GU,[],False
+ENGINECRAFT LTD,2025-05-29,0.2,active,71122,16481523,,,"3rd Floor, 86-90 Paul Street",London,EC2A 4NE,[],False
+INTERNATIONAL M&B CONSULTANCY LTD,2025-05-29,0.2,active,"62012, 62020, 62090, 63110",16483276,,,Unit5 21 Hill Street,Haverfordwest,SA61 1QQ,[],False
+VEREFA LTD,2025-05-29,0.2,active,"62012, 62090, 63110, 63120",16481643,,,Bridge House,Honiton,EX14 3NQ,[],False
+TVK LABS & TECHNOLOGIES LTD,2025-05-29,0.2,active,"62012, 62090, 63120, 72190",16481808,,,Office 23 Unit 5,London,W1C 2BU,[],False
+ANCHOR AI LTD,2025-05-29,0.2,active,"62012, 62020, 63110, 63990",16483962,,,38a Beaconsfield Road,Brighton,BN1 4QH,[],False
+THISTLE SANDS DATA LIMITED,2025-05-29,0.2,active,63110,SC850350,,,295 Fenwick Road,Glasgow,G46 6UH,[],False
+CURIOUS FORMS DIGITAL LIMITED,2025-05-28,0.2,active,"58210, 58290, 62011, 63990",16480796,,,99 Highfield Road,Woodford Green,IG8 8JB,[],False
+STRUCTURED MATTER LTD,2025-05-28,0.2,active,"25620, 25990, 38110, 72190",SC850201,,,272 Bath Street,Glasgow,G2 4JR,[],False
+WEBFX LTD,2025-05-28,0.2,active,"62012, 62020, 62090, 63110",16481204,,,14 The Parade,Pevensey,BN24 6RG,[],False
+ICUBES GLOBAL LTD,2025-05-27,0.2,active,"62020, 62090",16476150,,,20 Wenlock Road,London,N1 7GU,[],False
+BANDEIRA LTD,2025-05-27,0.2,active,62020,16475355,,,"Sainsburys Distribution Centre Nectar Way,",Northampton,NN4 9BX,[],False
+DERMADECK TECHNOLOGIES LTD,2025-05-27,0.2,active,"62012, 62020, 63120, 63990",16474245,,,93 Mostyn Street,Leicester,LE3 6DU,[],False
+MS DIGITAL MEDIA LTD,2025-05-27,0.2,active,"62012, 62020, 73110, 74100",16476172,,,"Unit 4, Storm 12 Plaza Shopping Centre",Southampton,SO14 0BH,[],False
+SHAREDGRID LTD,2025-05-27,0.2,active,63110,16478015,,,Portland House,Durham,DH1 1TW,[],False
+EBA RAIL LTD,2025-05-27,0.2,active,71122,16477944,,,14 Tate Road,Sutton,SM1 2SY,[],False
+OFFSHORE - ONSHORE ELECTRICAL SERVICES LTD,2025-05-27,0.2,active,"33140, 43210, 71122",SC849994,,,"7 Greenbraes Crescent, Gourdon",Montrose,DD10 0NG,[],False
+LIAM BARRY CONSULTING LTD,2025-05-27,0.2,active,71122,16475544,,,72 Bilbrook Road,Wolverhampton,WV8 1ER,[],False
+ABLE TRADING LIMITED,2025-05-27,0.2,active,"47910, 71122, 74209, 90030",16474474,,,Suite Ra01 195-197 Wood Street,London,E17 3NU,[],False
+TENTRAIT LIMITED,2025-05-27,0.2,active,"62020, 62090, 63110, 80200",16475834,,,62 Park Road,Kettering,NN15 5QY,[],False
+SPEND BADGER LIMITED,2025-05-27,0.2,active,"62020, 63110",16477775,,,Boehill Manor,Tiverton,EX16 7DZ,[],False
+REVEALTHIS LTD,2025-05-27,0.2,active,"63110, 63120, 66190",16478000,,,1503 7 Bankside Boulevard,Salford,M3 7HG,[],False
+TRAITECONOMY LTD,2025-05-27,0.2,active,"58290, 62090, 63120, 63990",16475835,,,43 Frederick Street,Seaham,SR7 7HX,[],False
+MOEDGE LTD,2025-05-27,0.2,active,"62020, 71111, 96010",16477327,,,"3rd Floor, 86-90 Paul Street",London,EC2A 4NE,[],False
+HELLO CONSULTANCY LIMITED,2025-05-27,0.2,active,62020,16476448,,,Unit 4 Wholesale Buildings,Bradford,BD7 1PD,[],False
+INSIGHTPRIME CONSULTING LIMITED,2025-05-27,0.2,active,62020,16477251,,,5 Tichborne Street,Leicester,LE2 0NA,[],False
+STRIXON LTD,2025-05-27,0.2,active,"46510, 58290, 62011, 62012",16475557,,,3 Tamworth Road,Newcastle Upon Tyne,NE4 5AJ,[],False
+SEAN WOOD CONSULTING LIMITED,2025-05-27,0.2,active,62020,16478105,,,57a West Street,Luton,LU2 8LH,[],False
+ASM FOCUS LTD,2025-05-27,0.2,active,62020,16478106,,,293 Wingletye Lane,Hornchurch,RM11 3BU,[],False
+YOUR TECH SUPPORT LTD,2025-05-27,0.2,active,62020,16477542,,,Office 12861 182-184 High Street North,London,E6 2JA,[],False
+NUDGE WORKS LIMITED,2025-05-27,0.2,active,62020,SC850026,,,Westside Steading,Inverurie,AB51 7SS,[],False
+GIETEM-PAYEE SOLUTIONS LIMITED,2025-05-27,0.2,active,"62020, 62090",16475537,,,14 Beachcomber Close,Coventry,CV3 3JW,[],False
+HIVESTACK SOLUTIONS LTD,2025-05-27,0.2,active,62020,16474522,,,3 Eastlake,Swindon,SN25 2RY,[],False
+OVERSKALE LTD,2025-05-27,0.2,active,"47910, 59112, 62020",16474501,,,20 Wenlock Road,London,N1 7GU,[],False
+AGD DEVELOPMENT LIMITED,2025-05-27,0.2,active,62012,16476821,,,9 Hyldavale Avenue,Cheadle,SK8 4DE,[],False
+SDT GLOBAL SERVICES LTD,2025-05-26,0.2,active,"47190, 69201, 70229, 71122",16473808,,,4 Portal Way,London,W3 6RT,[],False
+FINTECHSAVVY LTD.,2025-05-26,0.2,active,"62020, 69202, 70221",16473595,,,71b Wellesley Road,Slough,SL1 1UX,[],False
+SEPR CHANGE CONSULTANCY LTD,2025-05-26,0.2,active,62012,16474013,,,Apartment 12 Harrington House,Spalding,PE11 1RY,[],False
+SPIDDLE LTD,2025-05-25,0.2,active,62012,16473437,,,24 Redwing Close,Worksop,S81 8UR,[],False
+ARTIMERA LIMITED,2025-05-25,0.2,active,"26309, 32500, 62012, 72190",16473314,,,24 Raymond Road,London,SW19 4AP,[],False
+BSL GAMING LTD,2025-05-23,0.2,active,62012,16472158,,,"Unit 152818 Courier Point, 13 Freeland Park",Poole,BH16 6FH,[],False
+LD INNOVATION & IP LTD,2025-05-23,0.2,active,"58290, 62012, 77400",16472291,,,7 Robinson Avenue,Sheffield,S9 3DG,[],False
+PCI GEOMATICS ENTERPRISES (SCOTLAND) LTD,2025-05-23,0.2,active,"58290, 62012, 82990",SC849669,,,Atria One,Edinburgh,EH3 8EX,[],False
+LUX DEVELOPMENT PARTNERS LIMITED,2025-05-23,0.2,active,71122,16472663,,,44a Glendale Gardens,Leigh-On-Sea,SS9 2AS,[],False
+UTSRIGGING LTD,2025-05-23,0.2,active,71122,16472300,,,2 Fisher Close,Bedford,MK45 4NF,[],False
+MMG GLOBAL LTD,2025-05-23,0.2,active,71122,16471514,,,"Warslow, West Wing, Warslow Hall",Buxton,SK17 0HD,[],False
+COMPUMEX LIMITED,2025-05-23,0.2,active,62020,16472519,,,21 Meadway,Epsom,KT19 8JZ,[],False
+SOUTHWICK DEFENCE LTD,2025-05-23,0.2,active,"62020, 70229, 80100, 84220",16471542,,,17 Hampden Road,Bristol,BS4 2JN,[],False
+SHEIGRA SYSTEMS LIMITED,2025-05-23,0.2,active,62012,16471915,,,"C/O Edwards Veeder (Uk) Limited Ground Floor, 4 Broadgate","Chadderton, Oldham",OL9 9XA,[],False
